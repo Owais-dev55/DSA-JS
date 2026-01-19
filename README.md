@@ -1,2 +1,2 @@
-# DSA-JS
-
+This is a DSA (Data Structures and Algorithms) repository, where I am using Typescript and Javascript to implement various data structures and algorithms. The purpose of this repository is to enhance my understanding of DSA concepts and improve my coding skills.
+I am following shehriyan's coding school channel on YouTube for guidance and inspiration.
